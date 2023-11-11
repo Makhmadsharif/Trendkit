@@ -1,7 +1,9 @@
 .header{
-max-width:100%;
+max-width:105%;
 height:125px;
 background-color:#18134D;
+position:relative;
+bottom:20.9px;
 }
 
 
@@ -61,6 +63,32 @@ background-color:#18134D;
 a{
     padding-left:50px;
     text-decoration:none;
-    font-size:20px;
+    font-size:22px;
     color:white;
+    float:left;
+    left:810px;
+    position:relative;
+    top:37%;
+}
+
+img{
+background-color:#18134D;
+position:relative;
+left:-15%;
+top:24%;
+color:#FFFFFF;
+}    
+
+
+.Cons{
+ width:12%;
+ height:50%;
+ background-color:#D43361;
+ position:relative; 
+ float:left;
+ left:41%;
+ top:24%;
+ color:#FFFFFF;
+ font:inherit;font-size:21px;
+border-radius:29px;
 }
