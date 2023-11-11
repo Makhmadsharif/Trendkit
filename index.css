@@ -6,6 +6,27 @@ position:relative;
 bottom:20.9px;
 }
 
+img{
+    background-color:#18134D;
+    position:relative;
+    left:-15%;
+    top:24%;
+    color:#FFFFFF;
+    } 
+    
+    
+    .Cons{
+        max-width:12%;
+        height:50%;
+        background-color:#D43361;
+        position:relative; 
+        float:left;
+        left:41%;
+        top:24%;
+        color:#FFFFFF;
+        font:inherit;font-size:21px;
+       border-radius:29px;
+       }  
 
 .conteiner1{
     width:100%;
@@ -71,24 +92,6 @@ a{
     top:37%;
 }
 
-img{
-background-color:#18134D;
-position:relative;
-left:-15%;
-top:24%;
-color:#FFFFFF;
-}    
+  
 
 
-.Cons{
- max-width:12%;
- height:50%;
- background-color:#D43361;
- position:relative; 
- float:left;
- left:41%;
- top:24%;
- color:#FFFFFF;
- font:inherit;font-size:21px;
-border-radius:29px;
-}
