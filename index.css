@@ -57,3 +57,10 @@ background-color:#18134D;
     height:500px;
     background-color:#FBFAFD;
 }
+
+a{
+    padding-left:50px;
+    text-decoration:none;
+    font-size:20px;
+    color:white;
+}
