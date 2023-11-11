@@ -1,5 +1,5 @@
 .header{
-max-width:105%;
+max-width:100%;
 height:125px;
 background-color:#18134D;
 position:relative;
@@ -81,7 +81,7 @@ color:#FFFFFF;
 
 
 .Cons{
- width:12%;
+ max-width:12%;
  height:50%;
  background-color:#D43361;
  position:relative; 
